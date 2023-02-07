@@ -1,0 +1,48 @@
+{{ define "main" }}
+<div class="container">
+	{{ .Content }}
+	<br class="spacer">
+	{{ range .Site.Data.vpns }}
+	<div class="card card-body position-relative review-container" style="background:linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/assets/images/{{.Logo}});background-size: contain;background-repeat: no-repeat;background-position: center center;">
+		<div class="row">
+			<div class="col">
+				<h2>{{ .Name }} <span class="badge bg-danger">-{{ .Discount }}%</span></h2>
+			</div>
+			<div class="col-3">
+				<h1>ab <b>{{.Price}}€</b></h1>
+			</div>
+		</div>
+		<div class="rating top-0 start-100 position-absolute translate-middle d-none d-sm-none d-md-block">
+			<div class="rating-score position-relative">
+				{{ .Rating }}
+			</div>
+		</div>
+		<p>
+		{{ .Description | markdownify }}
+		</p>
+		<div class="container">
+			<div class="row align-items-start">
+				<div class="col">
+					<ul class="pros">
+						{{ range .Pros }}
+						<li>{{.}}</li>
+						{{end}}
+					</ul>
+				</div>
+				<div class="col">
+					<ul class="cons">
+						{{ range .Cons }}
+						<li>{{.}}</li>
+						{{end}}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<a class="card-body btn btn-outline-secondary" href="{{.Link}}">
+			<b>Zum Angebot ≫</b>
+		</a>
+	</div>
+	<br class="spacer">
+	{{ end }}
+</div>
+{{ end }}

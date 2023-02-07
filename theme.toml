@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "TarnVPN"
+license = "MIT"
+licenselink = "https://git.sr.ht/~poldi1405/tarnvpn-theme/tree/master/item/LICENSE"
+description = "A simple VPN comparison template"
+homepage = "https://vpn-sicher.de/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Moritz Poldrack"
+  homepage = "https://moritz.sh"
