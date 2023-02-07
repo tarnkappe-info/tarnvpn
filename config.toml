@@ -1,0 +1,11 @@
+baseURL = 'https://moritz.sh/tarnvpn'
+languageCode = 'de-de'
+title = 'TarnVPN'
+theme = "tarnvpn"
+buildfuture = true
+#enableGitInfo = true
+markup.goldmark.renderer.unsafe = true
+
+[params]
+title = "Die besten VPNs | Tarnkappe.info"
+description = "VPN Empfehlungen von der Tarnkappe.info Redaktion"

@@ -1,0 +1,16 @@
+Name="Surfshark"
+Logo="surfshark.svg"
+Link="https://www.youtube.com/watch?v=o-YBDTqX_ZU"
+Discount=42
+Rating=7.4
+Price=3
+Description='''
+Surfshark ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Ein paar Server",
+	"Hübsches Logo"
+]
+Cons=[
+	"bestimmt irgendwas",
+]
