@@ -1,0 +1,17 @@
+image: archlinux
+packages:
+  - git
+secrets:
+  - a4a77b05-94e0-443c-9408-b2d81f7263fe # GH key
+  - b15309e0-8156-44c8-aa7c-58c0f0b7d503 # GH known_hosts
+  - d4602c59-2b4e-4fb6-b3a7-4776667fd08e # sr.ht SSH Key
+shell: false
+sources:
+- git@git.sr.ht:~poldi1405/tarnvpn
+tasks:
+  - mirror-to-github: |
+      cd tarnvpn
+      git remote add github git@github.com:mpldr/tarnvpn.git
+      git pull --rebase github
+      git push git@github.com:mpldr/tarnvpn.git
+

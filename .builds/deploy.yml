@@ -1,0 +1,28 @@
+image: alpine/latest
+packages:
+  - git
+  - hugo
+  - make
+  - rsync
+secrets:
+  - e318dff3-60e7-4f5f-b55a-a3690d132ba4 # SSH-Key
+  - 1cadb345-e1a2-4c45-8bf3-08ae02ab85da # known_hosts
+  - a4a77b05-94e0-443c-9408-b2d81f7263fe # GH key
+shell: false
+sources:
+- https://git.sr.ht/~poldi1405/tarnvpn
+tasks:
+  - fetch-from-github:
+      cd tarnvpn
+      git remote add github git@github.com:mpldr/tarnvpn.git
+      git pull --rebase github
+  - retrieve-assets: |
+      cd tarnvpn/themes/tarnvpn
+      make
+  - generate-html: |
+      cd tarnvpn
+      hugo
+  - upload-website: |
+      cd tarnvpn
+      rsync -avzc --no-o --no-g --no-times --no-perms --delete public/ www-vpnsicherde@web.tarnkappe.info:510/var/www/vpn-sicher.de/website
+
