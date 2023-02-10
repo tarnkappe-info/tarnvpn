@@ -1,0 +1,16 @@
+Name="AtlasVPN"
+Logo="atlasvpn.svg"
+Link="https://atlasvpn.go2cloud.org/aff_c?offer_id=12&aff_id=542"
+Discount=81
+Rating=7.4
+Price=1.81
+Description='''
+AtlasVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Fragwürdige Werbeversprechen",
+]

@@ -1,0 +1,16 @@
+Name="ExpressVPN"
+Logo="expressvpn.svg"
+Link="https://www.xvinlink.com/?a_fid=tarnkappe"
+Discount=35
+Rating=7.4
+Price=8.32
+Description='''
+ExpressVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Kein Wireguard",
+]

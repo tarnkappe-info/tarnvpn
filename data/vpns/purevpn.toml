@@ -1,0 +1,16 @@
+Name="PureVPN"
+Logo="purevpn.png"
+Link="https://billing.purevpn.com/aff.php?aff=41459"
+Discount=88
+Rating=7.4
+Price=1.26
+Description='''
+PureVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Fragwürdige Werbeversprechen",
+]

@@ -1,17 +1,17 @@
 Name="NordVPN"
 Logo="nordvpn.svg"
-Link="https://www.youtube.com/watch?v=o-YBDTqX_ZU"
-Discount=69
+Link="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=24817"
+Discount=63
 Rating=9.6
-Price=2
+Price=3.49
 Description='''
 NordVPN zahlt und echt gute Provisionen dafür, dass wir ihr Komplettprogramm bewerben. Wir haben sogar die Integrität und erzählen nicht die fragwürdigen Statements. Also klick den Link und gib uns Geld.
 '''
 Pros=[
 	"Viele Server",
-	"Sitzt nicht in einem 13 Eye Land"
+	"Viele Boni (Passwortmanager, Breach Scanner, Cloud Storage)",
+	"Wireguard Support",
 ]
 Cons=[
-	"Fragwürdige Ethik",
-	"Penetrante Werbekampagne"
+	"Fragwürdige Werbeversprechen",
 ]

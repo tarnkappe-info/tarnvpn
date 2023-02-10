@@ -1,4 +1,4 @@
-baseURL = 'https://moritz.sh/tarnvpn'
+baseURL = 'https://vpn-sicher.de'
 languageCode = 'de-de'
 title = 'TarnVPN'
 theme = "tarnvpn"

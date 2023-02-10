@@ -1,0 +1,16 @@
+Name="Hide.me"
+Logo="hideme.svg"
+Link="https://hide.me/?friend=tarnkappe"
+Discount=75
+Rating=7.4
+Price=2.43
+Description='''
+Hide.me ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Kein Wireguard",
+]

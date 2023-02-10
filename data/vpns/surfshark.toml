@@ -1,16 +1,16 @@
 Name="Surfshark"
 Logo="surfshark.svg"
-Link="https://www.youtube.com/watch?v=o-YBDTqX_ZU"
-Discount=42
+Link="https://get.surfshark.net/aff_c?offer_id=16&aff_id=1907"
+Discount=82
 Rating=7.4
-Price=3
+Price=2.30
 Description='''
 Surfshark ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
 '''
 Pros=[
-	"Ein paar Server",
-	"Hübsches Logo"
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
 ]
 Cons=[
-	"bestimmt irgendwas",
+	"Fragwürdige Werbeversprechen",
 ]

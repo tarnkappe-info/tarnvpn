@@ -1,0 +1,16 @@
+Name="VyprVPN"
+Logo="vyprvpn.svg"
+Link="https://www.youtube.com/watch?v=o-YBDTqX_ZU"
+Discount=50
+Rating=7.4
+Price=5.00
+Description='''
+VyprVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Fragwürdige Werbeversprechen",
+]

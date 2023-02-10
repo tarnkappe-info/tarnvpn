@@ -1,0 +1,16 @@
+Name="OVPN"
+Logo="ovpn.svg"
+Link="https://www.ovpn.com/en?ref=larssobiraj"
+Discount=75
+Rating=7.4
+Price=4.22
+Description='''
+OVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+'''
+Pros=[
+	"Unbegrenzte Verbindungen",
+	"Ad- & Malware-Blocker",
+]
+Cons=[
+	"Kein Wireguard",
+]
