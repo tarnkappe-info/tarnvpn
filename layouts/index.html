@@ -2,7 +2,7 @@
 <div class="container">
 	{{ .Content }}
 	<br class="spacer">
-	{{ range .Site.Data.vpns }}
+	{{ range (sort .Site.Data.vpns "Rating" "desc") }}
 	<div class="card card-body position-relative review-container" style="background:linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(/assets/images/{{.Logo}});background-size: contain;background-repeat: no-repeat;background-position: center center;">
 		<div class="row">
 			<div class="col">
