@@ -6,16 +6,17 @@ packages:
   - rsync
 secrets:
   - e318dff3-60e7-4f5f-b55a-a3690d132ba4 # SSH-Key
-  - 1cadb345-e1a2-4c45-8bf3-08ae02ab85da # known_hosts
-  - a4a77b05-94e0-443c-9408-b2d81f7263fe # GH key
+  - 84e334c5-434c-4ace-a99c-9b6d908b6776 # SSH config
+  - e7a2be01-6980-491f-be4b-f6826a87bc2c # known_hosts
+  - f1290f93-dd08-4aea-abf1-8b16ff767f34 # GH key
 shell: false
 sources:
 - https://git.sr.ht/~poldi1405/tarnvpn
 tasks:
-  - fetch-from-github:
+  - fetch-from-github: |
       cd tarnvpn
-      git remote add github git@github.com:mpldr/tarnvpn.git
-      git pull --rebase github
+      git remote add github git@github.com:tarnkappe-info/tarnvpn.git
+      git pull --rebase github master
   - retrieve-assets: |
       cd tarnvpn/themes/tarnvpn
       make
@@ -24,5 +25,5 @@ tasks:
       hugo
   - upload-website: |
       cd tarnvpn/public
-      scp -rcP 510 . www-vpnsicherde@web.tarnkappe.info:/var/www/vpn-sicher.de/website
+      scp -rCP 510 . www-vpnsicherde@web.tarnkappe.info:/var/www/vpn-sicher.de/website
 

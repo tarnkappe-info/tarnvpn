@@ -11,9 +11,6 @@ sources:
 tasks:
   - mirror-to-github: |
       cd tarnvpn
-      git remote add github git@github.com:mpldr/tarnvpn.git
+      git remote add github git@github.com:tarnkappe-info/tarnvpn.git
       git pull --rebase github master
       git push --force github HEAD:master
-  - deploy-site: |
-      cd tarnvpn
-      hut builds submit -f .builds/deploy.yml
