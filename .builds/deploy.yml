@@ -23,6 +23,6 @@ tasks:
       cd tarnvpn
       hugo
   - upload-website: |
-      cd tarnvpn
-      rsync -avzc --no-o --no-g --no-times --no-perms --delete public/ www-vpnsicherde@web.tarnkappe.info:510/var/www/vpn-sicher.de/website
+      cd tarnvpn/public
+      scp -rcP 510 . www-vpnsicherde@web.tarnkappe.info:/var/www/vpn-sicher.de/website
 
