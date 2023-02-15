@@ -9,7 +9,7 @@ markup.goldmark.renderer.unsafe = true
 [params]
 title = "Die besten VPNs | Tarnkappe.info"
 description = "VPN Empfehlungen von der Tarnkappe.info Redaktion"
-logo = "https://cdn.tarnkappe.info/wp-content/uploads/tarnkappe-info-logo-header-black-small-compressed.png"
+logo = "/assets/tarnkappe.png"
 
 [params.footer]
 Logo = "https://via.placeholder.com/40x40"
