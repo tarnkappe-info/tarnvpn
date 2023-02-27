@@ -2,15 +2,21 @@ Name="Hide.me"
 Logo="hideme.svg"
 Link="https://hide.me/?friend=tarnkappe"
 Discount=75
-Rating=7.4
-Price=2.43
+Rating=8.4
+Price=3.84
 Description='''
-Hide.me ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+Hide.me hat als Hauptsitz absichtlich Malaysia gewählt.
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"Bei behördlichen Anfragen kann man nichts übergeben!",
+	"Szene-Anbieter, dem viele seit Jahren vertrauen",
+	"Unbegrenzt viele Verbindungen pro Abo",
+	"Eigener Ad- & Malware-Blocker",
+	"Fair: Preis bleibt nach Ablauf des Abos der gleiche!",
+	"Zwei Monate gratis",
 ]
 Cons=[
-	"Kein Wireguard",
+	"Leider kein vollumfängliches Wireguard-Protokoll",
+	"Nicht auf das Thema Streaming spezialisiert",
+	"Sicherheit kostet Geld, nicht gerade der günstigeste Anbieter",
 ]

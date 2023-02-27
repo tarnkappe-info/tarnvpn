@@ -2,15 +2,19 @@ Name="Perfect Privacy"
 Logo="pprivacy.png"
 Link="https://www.perfect-privacy.com/en/features?a_aid=53f61356c40c3"
 Discount=31
-Rating=7.4
+Rating=8.5
 Price=8.95
 Description='''
-Perfect Privacy ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+Perfect Privacy gilt seit Jahren gemeinhin als sehr verschwiegen!.
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"Keine Weitergabe von Kundendaten an Behörden",
+	"Stealth VPN, eigener Ad-Blocker etc.", 
+	"Viele Protokolle und modernste Technik inklusive",
+	"Sicherheit wirklich auf höchsten Niveau!",
 ]
 Cons=[
-	"Kein Wireguard",
+	"Knackt den VPN-Schutz von Netflix & Co. leider nicht!",
+	"Privatsphäre hat ihren Preis, Perfect Privacy ist teuer",
+	"keine kostenlosen Testaccounts verfügbar",
 ]

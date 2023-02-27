@@ -2,15 +2,24 @@ Name="Surfshark"
 Logo="surfshark.svg"
 Link="https://get.surfshark.net/aff_c?offer_id=16&aff_id=1907"
 Discount=82
-Rating=7.4
+Rating=7.5
 Price=2.30
 Description='''
-Surfshark ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+Surfshark - großer Anbieter mit vielen Servern & Features!
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"Software modern + Dark Mode!",
+	"Simple Installation",
+	"So viele Geräte, wie Du willst",
+	"Eigener Werbe-Blocker integriert",
+	"Preis bei dem Angebot sehr günstig",
+	"Super viele Server in vielen Ländern",
+	"Zusätzliche Dienste zubuchbar",
+	
 ]
 Cons=[
-	"Fragwürdige Werbeversprechen",
+	"Unser Test: Bedienung bei Windows etwas langsam",
+	"Menüführung könnte optimiert werden",
+	"Neustart der Software dauert",
+	"Kein Szene-Anbieter, für reguläre Anwendungen aber gut geeignet & günstig",
 ]

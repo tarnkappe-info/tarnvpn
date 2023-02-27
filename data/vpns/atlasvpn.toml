@@ -1,16 +1,22 @@
 Name="AtlasVPN"
 Logo="atlasvpn.svg"
 Link="https://atlasvpn.go2cloud.org/aff_c?offer_id=12&aff_id=542"
-Discount=81
-Rating=7.4
-Price=1.81
+Discount=83
+Rating=8.2
+Price=1.62
 Description='''
-AtlasVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+atlasVPN ist super günstig, aber leider mit Hauptsitz USA!
 '''
 Pros=[
-	"wirklich billig",
-	"kostenlose Version verfügbar",
+	"Wirklich mega günstig im Vergleich zur Konkurrenz",
+	"kostenloser VPN-Zugang verfügbar",
+	"eigener Ad-Blocker ohne Aufpreis",
+	"P2P-Filesharing ausdrücklich erlaubt",
+	"Streaming-Support für viele US-Dienste"
 ]
 Cons=[
-	"Tochter von NordVPN",
+	"Tochter von NordVPN, Firmensitz USA",
+	"US-Firmen müssen Behördenanfragen beantworten",
+	"kein Szene-Anbieter, nur für das Surfen und P2P-Filesharing geeignet",
+	"keine Server mit RAM-Disk, Aktivitäten der Kunden wahrscheinlich länger nachvollziehbar",
 ]

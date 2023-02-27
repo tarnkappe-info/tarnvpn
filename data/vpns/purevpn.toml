@@ -2,15 +2,22 @@ Name="PureVPN"
 Logo="purevpn.svg"
 Link="https://billing.purevpn.com/aff.php?aff=41459"
 Discount=88
-Rating=7.4
+Rating=8.1
 Price=1.26
 Description='''
-PureVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+PureVPN ist groß und wirklich sehr günstig!
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"Große Auswahl an Ländern und Servern!",
+	"10 Geräte gleichzeitig nutzbar",
+	"Streaming steht u.a. im Fokus",
+	"P2P/Torrents werden unterstützt",
+	"Preis extrem niedrig bei 5-Jahres-Plan!",
+	"Einzelne Server bis zu 20 Gbit/Sekunde",
 ]
 Cons=[
-	"Fragwürdige Werbeversprechen",
+	"Leider kein Multi Hop",
+	"Es gibt Gerüchte über Kooperationen mit Behörden",
+	"In unserem Test Probleme mit dem Windows-Client",
+	"Kein Szene-Anbieter: aber Surfen/Streaming - gut & echt preiswert",
 ]

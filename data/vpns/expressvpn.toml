@@ -2,15 +2,20 @@ Name="ExpressVPN"
 Logo="expressvpn.svg"
 Link="https://www.xvinlink.com/?a_fid=tarnkappe"
 Discount=35
-Rating=7.4
+Rating=7.2
 Price=8.32
 Description='''
-ExpressVPN ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
+ExpressVPN ist sehr populär und sehr groß!
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"Sehr schnelle Transferraten",
+	"Mega viele Server und Länder verfügbar",
+	"Sehr viele Betriebssysteme und Geräte werden unterstützt",
+	"Support per Chat 24/7 erreichbar!",
+	"Bedienung simpel",
 ]
 Cons=[
-	"Kein Wireguard",
+	"Nicht mehr eigenständig, von Kape Technologies gekauft",
+        "Kein Szene-Anbieter mehr, nur für reguläre Anwendungen", 
+      	"Preis vergleichsweise hoch",
 ]

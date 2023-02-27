@@ -2,15 +2,19 @@ Name="PrivadoVPN"
 Logo="privado.svg"
 Link="https://privadovpn.com/#a_aid=tarnkappe"
 Discount=82
-Rating=7.4
+Rating=7.5
 Price=1.99
 Description='''
 Privado ist ein VPN Anbieter der VPN-Anbieter Dinge tut.
 '''
 Pros=[
-	"Unbegrenzte Verbindungen",
-	"Ad- & Malware-Blocker",
+	"10 Verbindungen pro Abo",
+	"Schnelle Verbindungen",
+	"30 Tage völlig unverbindlich",
+	"Kindersicherung & Ad-Blocker",
 ]
 Cons=[
-	"Kein Wireguard",
+	"Neuer Anbieter: vergleichsweise wenig Länder",
+	"Kaum zusätzliche Features vorhanden",
+	"Bedienung noch in Englisch",
 ]
