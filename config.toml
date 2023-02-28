@@ -56,7 +56,9 @@ text = "Wer wir sind"
 [params.footer.col4]
 head = "Impressum"
 lines = [
-	"tarnkappe.info",
-	"Lohplatz 14",
-	"51465 Bergisch Gladbach",
+	"Lars Sobiraj",
+	"Tarnkappe.info Gewerbebetrieb",
+	"c/o Postflex #3386",
+	"Emsdettener Str. 10",
+	"48268 Greven",
 ]
