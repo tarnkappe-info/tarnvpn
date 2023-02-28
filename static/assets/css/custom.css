@@ -43,12 +43,14 @@
 .pros {
 	text-align: left;
 	list-style: "👍";
+	font-size: large;
 }
 
 .cons {
 	text-align: left;
 	list-style: "👎";
 	padding-left: 0.2em;
+	font-size: large;
 }
 
 .pros > li,
