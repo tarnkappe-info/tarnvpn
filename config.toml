@@ -12,7 +12,7 @@ description = "VPN Empfehlungen von der Tarnkappe.info Redaktion"
 logo = "/assets/tarnkappe.png"
 
 [params.footer]
-Logo = "https://via.placeholder.com/40x40"
+Logo = "/assets/tarnkappe_black.png"
 Copyright = "tarnkappe.info"
 
 [params.footer.col1]
