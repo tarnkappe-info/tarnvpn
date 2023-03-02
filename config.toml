@@ -18,28 +18,28 @@ Copyright = "tarnkappe.info"
 [params.footer.col1]
 head = "Besuche uns"
 [[params.footer.col1.links]]
-url = ""
+url = "https://tarnkappe.info"
 text = "News"
 [[params.footer.col1.links]]
-url = ""
+url = "https://tarnkappe.info/forum/"
 text = "Forum"
 [[params.footer.col1.links]]
-url = ""
+url = "https://t.me/tarnkappe"
 text = "Telegram Channel"
 [[params.footer.col1.links]]
-url = ""
+url = "https://matrix.to/#/#chat:tarnkappe.info"
 text = "Matrix Channel"
 
 [params.footer.col2]
 head = "Folge uns"
 [[params.footer.col2.links]]
-url = ""
+url = "https://social.tchncs.de/@tarnkappeinfo"
 text = "Mastodon"
 [[params.footer.col2.links]]
-url = ""
+url = "https://twitter.com/tarnkappe_info"
 text = "Twitter"
 [[params.footer.col2.links]]
-url = ""
+url = "https://www.facebook.com/tarnkappe.info/"
 text = "Facebook"
 
 [params.footer.col3]
