@@ -7,8 +7,8 @@ buildfuture = true
 markup.goldmark.renderer.unsafe = true
 
 [params]
-title = "Die besten VPNs | Tarnkappe.info"
-description = "VPN Empfehlungen von der Tarnkappe.info Redaktion"
+title = "Die sichersten VPN Anbieter"
+description = "Sichere VPN Anbieter im unabhängigen Vergleich"
 logo = "/assets/tarnkappe.png"
 
 [params.footer]
