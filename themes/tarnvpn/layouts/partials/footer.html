@@ -46,3 +46,21 @@
 	</div>
 	<p class="text-center">This website is using the <a href="https://git.sr.ht/~poldi1405/tarnvpn-theme">TarnVPN-Theme</a>.</p>
 </footer>
+
+
+<!-- Matomo -->
+<script>
+	var _paq = window._paq = window._paq || [];
+
+	_paq.push(["setCookieDomain", "*.vpn-sicher.de"]);
+	_paq.push(['trackPageView']);
+	_paq.push(['enableLinkTracking']);
+	(function() {
+		var u="https://" + Math.random().toString(36).slice(2) + ".as.tarnkappe.info/";
+		_paq.push(['setTrackerUrl', u+'matr' + Math.random().toString(36).slice(2) + 'a']);
+		_paq.push(['setSiteId', '11']);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.async=true; g.src=u+'mat' + Math.random().toString(36).slice(2) + '.js'; s.parentNode.insertBefore(g,s);
+	})();
+</script>
+<!-- End Matomo Code -->
