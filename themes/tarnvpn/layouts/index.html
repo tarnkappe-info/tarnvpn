@@ -6,7 +6,7 @@
 	<div class="card card-body position-relative review-container" style="background:linear-gradient(0deg, rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)), url(/assets/images/{{.Logo}});background-size: contain;background-repeat: no-repeat;background-position: center center;">
 		<div class="row">
 			<div class="col">
-				<h2>{{ .Name }} <span class="badge bg-danger">-{{printf "%.2f" .Discount}}%</span></h2>
+				<h2>{{ .Name }} <span class="badge bg-danger">-{{.Discount}}%</span></h2>
 			</div>
 			<div class="col-3">
 				<span style="font-size: 2.5rem;">ab <b>{{printf "%.2f" .Price}}€</b></span>/Monat
