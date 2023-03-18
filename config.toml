@@ -6,6 +6,9 @@ buildfuture = true
 #enableGitInfo = true
 markup.goldmark.renderer.unsafe = true
 
+[params.header]
+title = "VPN-Sicher.de"
+
 [params]
 title = "Die sichersten VPN Anbieter"
 description = "Sichere VPN Anbieter im unabhängigen Vergleich"
