@@ -5,16 +5,15 @@ Discount=31.00
 Rating=8.5
 Price=8.95
 Description='''
-Perfect Privacy gilt seit Jahren gemeinhin als sehr verschwiegen!
+Perfect Privacy gilt seit Jahren gemeinhin als sehr verschwiegen! Unser aktuellster Test von Perfect Privacy ist [hier zu finden](https://tarnkappe.info/test/vpn-test-perfect-privacy-ovpn-hide-me-272442.html).
 '''
 Pros=[
 	"Keine Weitergabe von Kundendaten an Behörden",
-	"Stealth VPN, eigener Ad-Blocker etc.", 
+	"Stealth VPN, eigener Ad-Blocker etc.",
 	"Viele Protokolle und modernste Technik inklusive",
-	"Sicherheit wirklich auf höchstem Niveau!",
+	"Sicherheit auf höchstem Niveau!",
 ]
 Cons=[
-	"Knackt den VPN-Schutz von Netflix & Co. leider nicht!",
 	"Privatsphäre hat ihren Preis, Perfect Privacy ist teuer",
 	"keine kostenlosen Testaccounts verfügbar",
 ]

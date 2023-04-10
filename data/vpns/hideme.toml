@@ -2,21 +2,22 @@ Name="Hide.me"
 Logo="hideme.svg"
 Link="https://hide.me/?friend=tarnkappe"
 Discount=75.00
-Rating=8.4
+Rating=8.6
 Price=3.84
 Description='''
-Hide.me hat als Hauptsitz absichtlich Malaysia gewählt.
+Hide.me hat als Hauptsitz absichtlich Malaysia gewählt. Unser aktuellster Test von hide.me ist [hier zu finden](https://tarnkappe.info/test/vpn-test-perfect-privacy-ovpn-hide-me-272442.html).
 '''
 Pros=[
 	"Bei behördlichen Anfragen kann man nichts übergeben!",
 	"Szene-Anbieter, dem viele seit Jahren vertrauen",
+	"Sehr hohe Geschwindigkeiten",
 	"Unbegrenzt viele Verbindungen pro Abo",
 	"Eigener Ad- & Malware-Blocker",
 	"Fair: Preis bleibt nach Ablauf des Abos der gleiche!",
 	"Zwei Monate gratis",
 ]
 Cons=[
-	"Leider kein vollumfängliches Wireguard-Protokoll",
+	"Wireguard leider nur über den offiziellen Client",
 	"Nicht auf das Thema Streaming spezialisiert",
 	"Sicherheit kostet Geld, nicht gerade der günstigeste Anbieter",
 ]
