@@ -2,9 +2,8 @@ image: archlinux
 packages:
   - git
 secrets:
-  - f1290f93-dd08-4aea-abf1-8b16ff767f34 # GH key
-  - b15309e0-8156-44c8-aa7c-58c0f0b7d503 # GH known_hosts
-  - d4602c59-2b4e-4fb6-b3a7-4776667fd08e # sr.ht SSH Key
+  - fb78c647-e9f5-4922-b804-7c795da4d56a # known_hosts
+  - ba45943f-f792-4287-87a5-09fdb803a8dd # GH key
 shell: false
 sources:
   - https://git.sr.ht/~poldi1405/tarnvpn

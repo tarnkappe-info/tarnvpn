@@ -7,8 +7,8 @@ packages:
 secrets:
   - e318dff3-60e7-4f5f-b55a-a3690d132ba4 # SSH-Key
   - 84e334c5-434c-4ace-a99c-9b6d908b6776 # SSH config
-  - e7a2be01-6980-491f-be4b-f6826a87bc2c # known_hosts
-  - f1290f93-dd08-4aea-abf1-8b16ff767f34 # GH key
+  - fb78c647-e9f5-4922-b804-7c795da4d56a # known_hosts
+  - ba45943f-f792-4287-87a5-09fdb803a8dd # GH key
 shell: false
 sources:
 - https://git.sr.ht/~poldi1405/tarnvpn
@@ -26,4 +26,3 @@ tasks:
   - upload-website: |
       cd tarnvpn/public
       scp -rCP 510 . www-vpnsicherde@web.tarnkappe.info:/var/www/vpn-sicher.de/website
-
